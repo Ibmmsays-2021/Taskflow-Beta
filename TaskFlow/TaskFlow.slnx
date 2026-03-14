@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Application/Application.csproj" />
+  <Project Path="../Domain/Domain.csproj" />
+  <Project Path="../Infrastracture/Infrastracture.csproj" />
+  <Project Path="TaskFlow.csproj" />
+</Solution>
