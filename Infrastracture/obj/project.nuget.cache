@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7OvuHhF5y00=",
+  "dgSpecHash": "7uMZZkhNLbA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ITP\\source\\repos\\Infrastracture\\Infrastracture.csproj",
+  "projectFilePath": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\Infrastracture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ITP\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\ITP\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

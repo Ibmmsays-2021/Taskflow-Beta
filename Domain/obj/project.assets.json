@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ITP\\source\\repos\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\ITP\\source\\repos\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\ITP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ITP\\source\\repos\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
