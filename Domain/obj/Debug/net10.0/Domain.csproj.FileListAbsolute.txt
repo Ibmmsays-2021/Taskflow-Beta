@@ -16,7 +16,9 @@ C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.Generate
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.sourcelink.json
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\refint\Domain.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.pdb
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\ref\Domain.dll
+C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.csproj.AssemblyReference.cache

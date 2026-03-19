@@ -174,8 +174,10 @@ C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\TaskFlow.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\TaskFlow.pdb
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Azure.Core.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Dapper.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Humanizer.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
@@ -193,6 +195,7 @@ C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.Ent
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.Identity.Client.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
@@ -206,6 +209,7 @@ C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.Sql
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Mono.TextTemplating.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Scalar.AspNetCore.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\System.ClientModel.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\System.CodeDom.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\System.Composition.AttributedModel.dll
@@ -314,6 +318,7 @@ C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\TaskFlow.Asse
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\TaskFlow.csproj.CoreCompileInputs.cache
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\TaskFlow.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\TaskFlow.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\TaskFlow.sourcelink.json
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -330,3 +335,5 @@ C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\refint\TaskFl
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\TaskFlow.pdb
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\TaskFlow.genruntimeconfig.cache
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\ref\TaskFlow.dll
+C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\MediatR.dll
+C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\MediatR.Contracts.dll

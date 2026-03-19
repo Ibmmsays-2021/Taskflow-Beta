@@ -29,6 +29,7 @@ public class ApplicationDbContext : IdentityDbContext<ApplicationUser, IdentityR
         base.OnModelCreating(modelBuilder);
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly); 
     } 
+    ///OutboxPattern
     public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
     {
         var userId = _currentUserService.CurrentUserId != null ? Guid.Parse(_currentUserService.CurrentUserId) : (Guid?)null;

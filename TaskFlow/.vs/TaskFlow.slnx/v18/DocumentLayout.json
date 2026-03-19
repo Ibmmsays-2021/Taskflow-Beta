@@ -3,15 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\TaskFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\taskflow\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{081B9FCA-7AEC-0917-9CF4-248B04EE5CAB}|..\\Infrastracture\\Infrastracture.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\infrastracture\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\taskflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5826D3E2-35D1-3394-E8AD-3768DEE232D8}|..\\Application\\Application.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\application\\features\\tickets\\queries\\getticketbyid\\getticketbyidquery\\getticketbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5826D3E2-35D1-3394-E8AD-3768DEE232D8}|..\\Application\\Application.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\application\\features\\tickets\\queries\\getticketbyid\\getticketbyidquery\\getticketbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\taskflow\\controllers\\ticketapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|solutionrelative:controllers\\ticketapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5826D3E2-35D1-3394-E8AD-3768DEE232D8}|..\\Application\\Application.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\application\\dtos\\ticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C8CBAE-DE02-7B4C-706D-5B7BB03EEA4F}|..\\Domain\\Domain.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\domain\\events\\ticketcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5826D3E2-35D1-3394-E8AD-3768DEE232D8}|..\\Application\\Application.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\application\\features\\tickets\\commands\\createticket\\createticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5826D3E2-35D1-3394-E8AD-3768DEE232D8}|..\\Application\\Application.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\application\\features\\tickets\\commands\\createticket\\createticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C8CBAE-DE02-7B4C-706D-5B7BB03EEA4F}|..\\Domain\\Domain.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5826D3E2-35D1-3394-E8AD-3768DEE232D8}|..\\Application\\Application.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C8CBAE-DE02-7B4C-706D-5B7BB03EEA4F}|..\\Domain\\Domain.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C8CBAE-DE02-7B4C-706D-5B7BB03EEA4F}|..\\Domain\\Domain.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\domain\\events\\baseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C8CBAE-DE02-7B4C-706D-5B7BB03EEA4F}|..\\Domain\\Domain.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\domain\\entities\\trackedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081B9FCA-7AEC-0917-9CF4-248B04EE5CAB}|..\\Infrastracture\\Infrastracture.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\infrastracture\\persistence\\dapper\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C8CBAE-DE02-7B4C-706D-5B7BB03EEA4F}|..\\Domain\\Domain.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\domain\\enums\\ticketpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081B9FCA-7AEC-0917-9CF4-248B04EE5CAB}|..\\Infrastracture\\Infrastracture.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\infrastracture\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C8CBAE-DE02-7B4C-706D-5B7BB03EEA4F}|..\\Domain\\Domain.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C8CBAE-DE02-7B4C-706D-5B7BB03EEA4F}|..\\Domain\\Domain.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081B9FCA-7AEC-0917-9CF4-248B04EE5CAB}|..\\Infrastracture\\Infrastracture.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\infrastracture\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081B9FCA-7AEC-0917-9CF4-248B04EE5CAB}|..\\Infrastracture\\Infrastracture.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\infrastracture\\persistence\\efcore\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081B9FCA-7AEC-0917-9CF4-248B04EE5CAB}|..\\Infrastracture\\Infrastracture.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\infrastracture\\identity\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5826D3E2-35D1-3394-E8AD-3768DEE232D8}|..\\Application\\Application.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\application\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\taskflow\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\taskflow\\taskflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|solutionrelative:taskflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081B9FCA-7AEC-0917-9CF4-248B04EE5CAB}|..\\Infrastracture\\Infrastracture.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\infrastracture\\identity\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\taskflow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5826D3E2-35D1-3394-E8AD-3768DEE232D8}|..\\Application\\Application.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\application\\common\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5C8CBAE-DE02-7B4C-706D-5B7BB03EEA4F}|..\\Domain\\Domain.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\domain\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|c:\\users\\itp\\source\\repos\\taskflow-beta\\taskflow\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{457D5A95-A093-D3DD-914D-DFBF668566D5}|TaskFlow.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 35,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,35 +152,386 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\TaskFlow\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-14T01:20:34.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 28,
               "Title": "Attachment.cs",
               "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Entities\\Attachment.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Attachment.cs",
               "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Entities\\Attachment.cs",
               "RelativeToolTip": "..\\Domain\\Entities\\Attachment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-14T01:20:41.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 29,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\TaskFlow\\README.md",
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\TaskFlow\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCUAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-03-14T01:26:04.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\Persistence\\EFCore\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastracture\\Persistence\\EFCore\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\Persistence\\EFCore\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Infrastracture\\Persistence\\EFCore\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T02:55:34.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\Identity\\EmailSender.cs",
+              "RelativeDocumentMoniker": "..\\Infrastracture\\Identity\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\Identity\\EmailSender.cs",
+              "RelativeToolTip": "..\\Infrastracture\\Identity\\EmailSender.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T00:06:16.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\TaskFlow\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\TaskFlow\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-15T00:13:28.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\Common\\MailSettings.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Common\\MailSettings.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\Common\\MailSettings.cs",
+              "RelativeToolTip": "..\\Application\\Common\\MailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T00:15:43.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\TaskFlow\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\TaskFlow\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-15T00:42:12.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TaskFlow",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\TaskFlow\\TaskFlow.csproj",
+              "RelativeDocumentMoniker": "TaskFlow.csproj",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\TaskFlow\\TaskFlow.csproj",
+              "RelativeToolTip": "TaskFlow.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T00:45:37.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\Interfaces\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\ICurrentUserService.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\Interfaces\\ICurrentUserService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:20:57.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\Identity\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "..\\Infrastracture\\Identity\\CurrentUserService.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\Identity\\CurrentUserService.cs",
+              "RelativeToolTip": "..\\Infrastracture\\Identity\\CurrentUserService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:21:45.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastracture\\Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\Infrastracture\\Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:37:04.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Infrastracture\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\Infrastracture\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:37:35.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:38:09.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:38:32.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketAPI.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\TaskFlow\\Controllers\\TicketAPI.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketAPI.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\TaskFlow\\Controllers\\TicketAPI.cs",
+              "RelativeToolTip": "Controllers\\TicketAPI.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:23:20.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\Persistence\\Dapper\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "..\\Infrastracture\\Persistence\\Dapper\\SqlConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\Persistence\\Dapper\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "..\\Infrastracture\\Persistence\\Dapper\\SqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:36:22.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:37:46.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TicketPriority.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Enums\\TicketPriority.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Enums\\TicketPriority.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Enums\\TicketPriority.cs",
+              "RelativeToolTip": "..\\Domain\\Enums\\TicketPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:42:11.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Entities\\Ticket.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Ticket.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwEsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:45:32.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrackedEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Entities\\TrackedEntity.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\TrackedEntity.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Entities\\TrackedEntity.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\TrackedEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:46:19.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Events\\TicketCreatedEvent.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Events\\TicketCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Events\\TicketCreatedEvent.cs",
+              "RelativeToolTip": "..\\Domain\\Events\\TicketCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:46:44.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Events\\BaseEvent.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Events\\BaseEvent.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Domain\\Events\\BaseEvent.cs",
+              "RelativeToolTip": "..\\Domain\\Events\\BaseEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:56:02.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T01:31:33.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateTicketCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketCommand.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketCommand.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketCommand.cs",
+              "RelativeToolTip": "..\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T01:34:33.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateTicketCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketCommandHandler.cs",
+              "RelativeToolTip": "..\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T01:35:07.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Infrastracture\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Infrastracture\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Infrastracture\\DependencyInjection.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvyAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T01:46:03.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\DTOs\\TicketResponse.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\TicketResponse.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\DTOs\\TicketResponse.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\TicketResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:23:00.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetTicketByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdQuery\\GetTicketByIdQuery.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdQuery\\GetTicketByIdQuery.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdQuery\\GetTicketByIdQuery.cs",
+              "RelativeToolTip": "..\\Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdQuery\\GetTicketByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:25:24.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetTicketByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdQuery\\GetTicketByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdQuery\\GetTicketByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\ITP\\source\\repos\\Taskflow-Beta\\Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdQuery\\GetTicketByIdQueryHandler.cs",
+              "RelativeToolTip": "..\\Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdQuery\\GetTicketByIdQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:26:24.884Z",
               "EditorCaption": ""
             }
           ]

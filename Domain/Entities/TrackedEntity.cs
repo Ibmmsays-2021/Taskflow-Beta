@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Domain.Entities;
 
-public class TrackedEntity
+public class TrackedEntity: BaseEntity
 {
     public DateTime? CreationDate { get; set; }
     public DateTime? ModifiedDate { get; set; }

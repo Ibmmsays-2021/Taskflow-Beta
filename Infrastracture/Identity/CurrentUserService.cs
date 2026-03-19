@@ -1,9 +1,6 @@
 ﻿using Application.Interfaces;
 using Microsoft.AspNetCore.Http;
-using System;
-using System.Collections.Generic;
 using System.Security.Claims;
-using System.Text;
 
 namespace Infrastracture.Identity;
 
@@ -14,5 +11,5 @@ public class CurrentUserService : ICurrentUserService
     {
         _httpContextAccessor = httpContextAccessor;
     }
-    public string? UserId => _httpContextAccessor.HttpContext?.User?.FindFirstValue(ClaimTypes.NameIdentifier);
+    public string? CurrentUserId => _httpContextAccessor.HttpContext?.User?.FindFirstValue(ClaimTypes.NameIdentifier);
 }

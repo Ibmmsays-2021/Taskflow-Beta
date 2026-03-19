@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace Application.Interfaces;
 
-namespace Application.Interfaces;
-
-public class ICurrentUserService
+public interface ICurrentUserService
 {
     public string? CurrentUserId { get; }
 

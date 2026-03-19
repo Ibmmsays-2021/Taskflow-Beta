@@ -16,9 +16,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Events\" />
-    <Folder Include="Interfaces\" />
     <Folder Include="Specifications\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="14.1.0" />
   </ItemGroup>
 
 </Project>
