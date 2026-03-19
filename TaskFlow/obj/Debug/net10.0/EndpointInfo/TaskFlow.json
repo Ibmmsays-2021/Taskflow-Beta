@@ -407,6 +407,16 @@
             }
           }
         }
+      },
+      "get": {
+        "tags": [
+          "TicketAPI"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     },
     "/api/TicketAPI/{id}": {

@@ -10,6 +10,6 @@ public class Attachment : TrackedEntity
     public string Name { get; set; }
     public string FilePath { get; set; }
     public string FileSize { get; set; }
-    public int TicketId { get; set; }
-    public Ticket Ticket { get; set; }
+    public Guid TicketId { get; set; }
+    public Ticket Ticket { get; set; } = null!;
 }

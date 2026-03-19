@@ -12,6 +12,7 @@ C:\Users\ITP\source\repos\Domain\obj\Debug\net10.0\ref\Domain.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\bin\Debug\net10.0\Domain.deps.json
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\bin\Debug\net10.0\Domain.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\bin\Debug\net10.0\Domain.pdb
+C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.csproj.AssemblyReference.cache
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
@@ -21,4 +22,3 @@ C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\refint\Domain.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.pdb
 C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\ref\Domain.dll
-C:\Users\ITP\source\repos\Taskflow-Beta\Domain\obj\Debug\net10.0\Domain.csproj.AssemblyReference.cache

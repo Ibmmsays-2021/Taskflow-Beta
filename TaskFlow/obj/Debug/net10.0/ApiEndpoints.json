@@ -27,6 +27,16 @@
   },
   {
     "ContainingType": "TaskFlow.Controllers.TicketAPI",
+    "Method": "GetAll",
+    "RelativePath": "api/TicketAPI",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskFlow.Controllers.TicketAPI",
     "Method": "Get",
     "RelativePath": "api/TicketAPI/{id}",
     "HttpMethod": "GET",

@@ -176,6 +176,8 @@ C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Azure.Core.dl
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Azure.Identity.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Dapper.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Humanizer.dll
+C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\MediatR.dll
+C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\MediatR.Contracts.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
@@ -335,5 +337,3 @@ C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\refint\TaskFl
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\TaskFlow.pdb
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\TaskFlow.genruntimeconfig.cache
 C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\obj\Debug\net10.0\ref\TaskFlow.dll
-C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\MediatR.dll
-C:\Users\ITP\source\repos\Taskflow-Beta\TaskFlow\bin\Debug\net10.0\MediatR.Contracts.dll

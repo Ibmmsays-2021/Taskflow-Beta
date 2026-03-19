@@ -1,4 +1,5 @@
 ﻿using Application.Features.Tickets.Commands.CreateTicket;
+using Application.Features.Tickets.GetTicketsList;
 using Application.Features.Tickets.Queries.GetTicketById.GetTicketByIdQuery;
 using MediatR;
 using Microsoft.AspNetCore.Http;
@@ -22,5 +23,11 @@ public class TicketAPI(IMediator mediator) : ControllerBase
     {
         var result = await _mediator.Send(new GetTicketByIdQuery(id));
         return result is not null ? Ok(result) : NotFound();
+    }
+    [HttpGet]
+    public async Task<IActionResult> GetAll()
+    {
+        var result = await _mediator.Send(new GetTicketsListQuery());
+        return Ok(result);
     }
 }

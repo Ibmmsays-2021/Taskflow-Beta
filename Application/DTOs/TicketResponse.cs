@@ -7,6 +7,9 @@ namespace Application.DTOs;
 public record TicketResponse(
     Guid Id,
     string Name,
-    string Status,
-    string Type,
-    string AssignedUserName);
+    string? Description,
+    int Type,              
+    int Status,            
+    int BoardId,
+    Guid? ParentTicketId,
+    string? AssignedToUser);  
