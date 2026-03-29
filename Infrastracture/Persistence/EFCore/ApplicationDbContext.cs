@@ -3,6 +3,8 @@ using Domain.Common;
 using Domain.Entities;
 using Domain.Enums;
 using Infrastracture.Identity;
+using MediatR;
+using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -11,20 +13,19 @@ namespace Infrastracture.Persistence.EFCore;
 
 public class ApplicationDbContext : IdentityDbContext<ApplicationUser, IdentityRole<Guid>, Guid>
 {
-    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+    private readonly IMediator _mediator; 
+    public ApplicationDbContext(
+        DbContextOptions<ApplicationDbContext> options,
+        ICurrentUserService currentUserService, IMediator mediator) : base(options)
     {
+        _currentUserService = currentUserService;
+        _mediator = mediator;
     }
     public DbSet<Ticket> Tickets { get; set; }
     public DbSet<Board> Boards { get; set; }
     public DbSet<Attachment> Attachments { get; set; }
     private readonly ICurrentUserService _currentUserService;
 
-    public ApplicationDbContext(
-        DbContextOptions<ApplicationDbContext> options,
-        ICurrentUserService currentUserService) : base(options)
-    {
-        _currentUserService = currentUserService;
-    }
     override protected void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
@@ -32,7 +33,15 @@ public class ApplicationDbContext : IdentityDbContext<ApplicationUser, IdentityR
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly); 
     } 
     ///OutboxPattern
-    public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+    public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+    {
+        UpdateAuditEntities();
+        var result = await base.SaveChangesAsync(cancellationToken);
+        await DispatchDomainEvents(cancellationToken);
+        return result;
+    }
+
+    private void UpdateAuditEntities()
     {
         var userId = _currentUserService.CurrentUserId != null ? Guid.Parse(_currentUserService.CurrentUserId) : (Guid?)null;
         foreach (var entry in ChangeTracker.Entries<TrackedEntity>())
@@ -50,12 +59,32 @@ public class ApplicationDbContext : IdentityDbContext<ApplicationUser, IdentityR
                     entry.Entity.ModifiedBy = userId;
                     break;
 
-                case EntityState.Deleted: 
+                case EntityState.Deleted:
                     entry.State = EntityState.Modified;
                     entry.Entity.IsDeleted = true;
                     break;
             }
         }
-        return base.SaveChangesAsync(cancellationToken);
+    }
+
+    private async Task DispatchDomainEvents(CancellationToken ct)
+    {
+        // Get all entities that have events waiting
+        var entitiesWithEvents = ChangeTracker.Entries<BaseEntity>()
+            .Select(e => e.Entity)
+            .Where(e => e.DomainEvents.Any())
+            .ToList();
+
+        foreach (var entity in entitiesWithEvents)
+        {
+            foreach (var domainEvent in entity.DomainEvents)
+            {
+                // Publish the event to MediatR
+                await _mediator.Publish(domainEvent, ct);
+            }
+
+            // Clear events so they don't fire twice if saved again
+            entity.ClearDomainEvents();
+        }
     }
 }

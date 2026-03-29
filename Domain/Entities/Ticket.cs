@@ -1,4 +1,5 @@
 ﻿using Domain.Enums;
+using Domain.Events;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -13,7 +14,8 @@ public sealed class Ticket: TrackedEntity
         Name = name;
         Type = type;
         BoardId = boardId;
-        Status = TicketStatus.New; 
+        Status = TicketStatus.New;
+        AddDomainEvent(new TicketCreatedEvent(this));
     }
 
     public string Name { get; set; } = null!;
